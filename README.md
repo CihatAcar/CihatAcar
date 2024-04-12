@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CihatAcar
+- 👋 Hi, I’m @CahitAcar
 - 👀 I’m interested in Artificial Intelligence and I'm currently studying AI in Vrije Universiteit Amsterdam
 - 🌱 I’m currently learning Machine Learning.
 
